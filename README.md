@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lCDSLl-Richard
 - 👀 I’m interested in software development and technology in general.
-- 🌱 I’m currently learning JavaScript with React, and POO in C++.
+- 🌱 I’m currently learning JavaScript & React, and OOP in C++.
 - 💞️ I’m looking to collaborate on really anything that can help me develop my skills and get better at programming!
 - 📫 How to reach me: ricardo.a.fernandez.a@gmail.com
