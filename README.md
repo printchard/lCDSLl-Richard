@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lCDSLl-Richard
+- 👋 Hi, I’m @printchard
 - 👀 I’m interested in software development and technology in general.
-- 🌱 I’m currently learning Switft and mobile development
+- 🌱 I’m currently a little bit of everything, including C, Go and distributed systems.
 - 💞️ I’m looking to collaborate on really anything that can help me develop my skills and get better at programming!
 - 📫 How to reach me: ricardo.a.fernandez.a@gmail.com
